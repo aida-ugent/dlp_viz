@@ -1,4 +1,5 @@
 # Code accompanying the paper "New Perspectives on the Evaluation of Link Prediction Algorithms for Dynamic Graphs"
+![Banner](highschool_tnt.png)
 
 `tgn_attn` contains a simple training script for the TGN-Attn model. 
 
