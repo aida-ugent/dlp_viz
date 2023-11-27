@@ -26,4 +26,4 @@ Else the scores and weights can be obtained using:
 - The `tgn_attn` script for the score against selected negative samples experiment
 - By adapting the code in [https://github.com/shenyangHuang/TGB/blob/main/examples/linkproppred/tgbl-wiki/tgn.py](https://github.com/shenyangHuang/TGB/blob/main/examples/linkproppred/tgbl-wiki/tgn.py)
 
-For any questions, please contact [Raphaël Romero](raphael.romero@ugent.be).
+For any questions, please contact raphael.romero@ugent.be.
